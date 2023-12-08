@@ -30,7 +30,7 @@ acpower() {
     if [ $ischarging = 1 ]; then
         echo ""
     else
-        echo ""
+        echo " "
     fi
 }
 
